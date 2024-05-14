@@ -1,0 +1,54 @@
+h3
+{
+    color: antiquewhite;
+    margin: 0;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    /* font-family: ; */
+    align-items: end;
+    height: 100vh;
+}
+
+footer
+{
+    /* background-color:palevioletred; */
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: whitesmoke;
+    padding: 40px 20px ;
+}
+#left
+{
+    /* background-color: bisque; */
+    width: 60%;
+    display: flex;
+    
+}
+
+#right
+{
+    /* background-color:palevioletred; */
+    width: 40%;
+    display: flex;
+    border-left: 1px solid;
+
+}
+ul
+{
+    /* background-color:pink; */
+    list-style-type: none;
+    margin: 0;
+   
+}
+a
+{
+    text-decoration: none;
+    color: aliceblue;
+
+
+}
